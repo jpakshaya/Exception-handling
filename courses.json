@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "code": "MATH101",
+            "name": "Algebra Fundamentals"
+        },
+        {
+            "code": "ENG201",
+            "name": "Advanced English Literature"
+        },
+        {
+            "code": "SCI102",
+            "name": "Physics Basics"
+        },
+        {
+            "code": "CS301",
+            "name": "Data Structures"
+        },
+        {
+            "code": "CS302",
+            "name": "Design and Analysis of Algorithms"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "id": "S001",
+            "name": "John Doe"
+        },
+        {
+            "id": "S002",
+            "name": "Emma Smith"
+        },
+        {
+            "id": "S003",
+            "name": "Michael Johnson"
+        },
+        {
+            "id": "S004",
+            "name": "Sarah Williams"
+        },
+        {
+            "id": "S005",
+            "name": "Bhadresh"
+        },
+        {
+            "id": "S006",
+            "name": "Vaageesh"
+        },
+        {
+            "id": "S007",
+            "name": "R Sujith Gopi"
+        }
+    ]
+}

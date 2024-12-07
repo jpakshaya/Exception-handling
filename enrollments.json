@@ -1,0 +1,81 @@
+{
+    "enrollments": {
+        "S001": [
+            {
+                "attendance": 95,
+                "courseCode": "MATH101",
+                "grade": "A"
+            },
+            {
+                "attendance": 88,
+                "courseCode": "ENG201",
+                "grade": "B+"
+            }
+        ],
+        "S002": [
+            {
+                "attendance": 92,
+                "courseCode": "SCI102",
+                "grade": "A-"
+            },
+            {
+                "attendance": 85,
+                "courseCode": "CS301",
+                "grade": "B"
+            }
+        ],
+        "S003": [
+            {
+                "attendance": 80,
+                "courseCode": "MATH101",
+                "grade": "B"
+            },
+            {
+                "attendance": 95,
+                "courseCode": "SCI102",
+                "grade": "A"
+            }
+        ],
+        "S004": [
+            {
+                "attendance": 97,
+                "courseCode": "ENG201",
+                "grade": "A"
+            },
+            {
+                "attendance": 90,
+                "courseCode": "CS301",
+                "grade": "A-"
+            }
+        ],
+        "S005": [
+            {
+                "attendance": 0,
+                "courseCode": "ENG201",
+                "grade": 0
+            },
+            {
+                "attendance": 80.0,
+                "courseCode": "CS302",
+                "grade": 99.0
+            }
+        ],
+        "S006": [
+            {
+                "attendance": 0,
+                "courseCode": "MATH101",
+                "grade": 0
+            },
+            {
+                "attendance": 0,
+                "courseCode": "ENG201",
+                "grade": 0
+            },
+            {
+                "attendance": 100.0,
+                "courseCode": "CS302",
+                "grade": 99.0
+            }
+        ]
+    }
+}

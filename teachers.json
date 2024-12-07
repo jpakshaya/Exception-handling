@@ -1,0 +1,62 @@
+{
+    "teachers": [
+        {
+            "courses": [
+                {
+                    "Code": "MATH101",
+                    "Name": "Algebra Fundamentals"
+                }
+            ],
+            "id": "T001",
+            "name": "Dr. Robert Brown"
+        },
+        {
+            "courses": [
+                {
+                    "Code": "ENG201",
+                    "Name": "Advanced English Literature"
+                }
+            ],
+            "id": "T002",
+            "name": "Ms. Emily Davis"
+        },
+        {
+            "courses": [
+                {
+                    "Code": "SCI102",
+                    "Name": "Physics Basics"
+                },
+                {
+                    "Code": "CS301",
+                    "Name": "Data Structures"
+                }
+            ],
+            "id": "T003",
+            "name": "Mr. David Wilson"
+        },
+        {
+            "courses": [
+                {
+                    "Code": "SCI102",
+                    "Name": "Physics Basics"
+                },
+                {
+                    "Code": "CS301",
+                    "Name": "Data Structures"
+                }
+            ],
+            "id": "T004",
+            "name": "Lakshmi Narayanan"
+        },
+        {
+            "courses": [
+                {
+                    "Code": "CS302",
+                    "Name": "Design and Analysis of Algorithms"
+                }
+            ],
+            "id": "T005",
+            "name": "Lakshmi LN"
+        }
+    ]
+}
